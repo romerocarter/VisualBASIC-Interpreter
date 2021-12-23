@@ -1,0 +1,10 @@
+Module Module1
+    Sub Main()
+        Dim i As Integer
+        Dim y As Integer
+        Dim z As Integer
+        i = 10
+        y = 20
+        z = i + y
+    End Sub
+End Module
